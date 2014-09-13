@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/354/trunk/tests
+END
+xmlHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/354/trunk/tests/xmlHandlerTest.php
+END
+utilsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/250/trunk/tests/utilsTest.php
+END
+courseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/291/trunk/tests/courseTest.php
+END
+eventTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/273/trunk/tests/eventTest.php
+END
+resolveConflictTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/354/trunk/tests/resolveConflictTest.php
+END
+dbHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/353/trunk/tests/dbHandlerTest.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/79/trunk/tests/README.txt
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/324/trunk/tests/testFiles
+END
+wrongTagSyntaxTestFile1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/284/trunk/tests/testFiles/wrongTagSyntaxTestFile1.xml
+END
+testFile1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/324/trunk/tests/testFiles/testFile1.xml
+END
+testFile2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/324/trunk/tests/testFiles/testFile2.xml
+END
+wrongTagSyntaxTestFile2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/284/trunk/tests/testFiles/wrongTagSyntaxTestFile2.xml
+END
+tagMismatchTestFile1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/284/trunk/tests/testFiles/tagMismatchTestFile1.xml
+END
+tagMismatchTestFile2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/284/trunk/tests/testFiles/tagMismatchTestFile2.xml
+END
+wrongClassTagSyntaxTestFile1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/324/trunk/tests/testFiles/wrongClassTagSyntaxTestFile1.xml
+END
+wrongClassTagSyntaxTestFile2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/324/trunk/tests/testFiles/wrongClassTagSyntaxTestFile2.xml
+END
+forceEmptyArrayReturnTestFile1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/284/trunk/tests/testFiles/forceEmptyArrayReturnTestFile1.xml
+END
+forceEmptyArrayReturnTestFile2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/324/trunk/tests/testFiles/forceEmptyArrayReturnTestFile2.xml
+END

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scheduleListings>
+    <selection>
+ 	<course_d>CPSC441</course_id>			
+    </selection>
+    <selection>
+        <course_ID>SENG403</course_ID>                   
+    </selection>
+    <selection>
+	<course_ID>CPSC401</course_ID>                   
+    </selection>
+    <selection>
+	<course_ID>CPSC471</course_ID>                   
+    </selection>
+</scheduleListings>

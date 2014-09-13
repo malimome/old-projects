@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DB>
+ <classs>
+	<course_ID>CPSC441</course_ID>
+      	<startTime>12:00</startTime>
+      	<endTime>12:50</endTime>
+      	<daysOfWeek>MWF</daysOfWeek>
+ </classs>
+ <classs>      
+	<course_ID>CPSC471</course_ID>
+	<startTime>15:00</startTime>
+	<endTime>15:50</endTime>
+	<daysOfWeek>MWF</daysOfWeek> 
+ </classs>
+ <customm>
+	<event_ID>YOGA</event_ID>
+        <startTime>11:00</startTime>
+        <endTime>11:50</endTime>
+        <daysOfWeek>MWF</daysOfWeek>
+ </customm>
+</DB>

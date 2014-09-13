@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Courses>
+ <class>
+   	<course_ID>CPSC441</course_ID>
+    <course_Name>CPSC 441</course_Name>
+	  <instructor>Yaser</instructor>
+  	<startTime>12:00</startTime>
+   	<endTime>12:50</endTime>
+  	<StartTimeTut>13:00</StartTimeTut>
+   	<EndTimeTut>13:50</EndTimeTut>
+   	<daysOfWeek>MWF</daysOfWeek>
+ </class>
+
+ <class>      
+	  <course_ID>CPSC471</course_ID>
+	  <course_Name>CPSC 471</course_Name>
+	  <instructor>Majid</instructor>
+	  <startTime>15:00</startTime>
+	  <endTime>15:50</endTime>
+    <StartTimeTut>16:00</StartTimeTut>
+    <EndTimeTut>16:50</EndTimeTut>
+	  <daysOfWeek>MWF</daysOfWeek> 
+ </class>
+
+ <class>      
+	  <course_ID>CPSC481</course_ID>
+	  <course_Name>CPSC 481</course_Name>
+	  <instructor>Vahid</instructor>
+	  <startTime>15:00</startTime>
+	  <endTime>15:50</endTime>
+    <StartTimeTut>16:00</StartTimeTut>
+    <EndTimeTut>16:50</EndTimeTut>
+	  <daysOfWeek>TH</daysOfWeek> 
+  </class>
+
+ <class>
+   	<course_ID>CPSC451</course_ID>
+    <course_Name>CPSC 451</course_Name>
+	  <instructor>Mike</instructor>
+  	<startTime>11:00</startTime>
+   	<endTime>11:50</endTime>
+  	<StartTimeTut>12:00</StartTimeTut>
+   	<EndTimeTut>12:50</EndTimeTut>
+   	<daysOfWeek>MWF</daysOfWeek>
+ </class>
+
+ <class>
+   	<course_ID>CPSC400</course_ID>
+    <course_Name>CPSC 400</course_Name>
+	  <instructor>Conf</instructor>
+  	<startTime>12:00</startTime>
+   	<endTime>12:50</endTime>
+  	<StartTimeTut>13:00</StartTimeTut>
+   	<EndTimeTut>13:50</EndTimeTut>
+   	<daysOfWeek>TH</daysOfWeek>
+ </class>
+
+</Courses>

@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+<div class="body">
+
+<div class="header"><img src="../img/banner.png" /></div>
+<?php include 'navi.php' ?>
+
+<div class="content">
+<h1>Welcome!</h1>
+<p>This is iteration 3 of U-of-C Scheduler. To upload your own xml
+files, please use this page.<br></br>
+
+<form enctype="multipart/form-data" action="upload_file.php" method="post">
+<table>
+	<input type="hidden" name="MAX_FILE_SIZE" value="100000" />
+	<tr><td>Choose a file to upload (XML file with all courses in schedules):</td>
+	<td><input name="file1" type="file" /></td></tr>
+	<tr><td>Choose a file to upload (XML file with all events, min and max):</td>
+	<td><input name="file2" type="file" /></td></tr>
+	</table>
+	<input type="submit" value="Upload File" />
+</form>
+
+<script language="javascript">
+    onPageLoad();
+    function onPageLoad() {
+        alert('page loaded!');
+    }
+</script>
+
+
+<br></br>
+</p>
+</div>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+	<form action="upload_file.php" method="post" enctype="multipart/form-data">
+	<label for="file">File with all courses:</label>
+	<input type="file" name="file1" id="file1" /> 
+	<br />
+	<label for="file">File with course selections:</label>
+	<input type="file" name="file2" id="file2" /> 
+	<br />
+	<input type="submit" name="submit" value="Generate" />
+	</form>
+	-->

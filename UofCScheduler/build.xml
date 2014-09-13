@@ -1,0 +1,25 @@
+<project name="UofCScheduler" default="build">
+<!-- Define some standard dirs -->
+<property name="dir.src" value="${basedir}/application" />
+<property name="dir.tests" value="${basedir}/tests" />
+<property name="dir.build" value="${basedir}/build" />
+<property name="dir.logs" value="${dir.build}/logs" />
+<property name="dir.coverage" value="${dir.build}/coverage" />
+
+<target name="clean">
+<delete dir="${dir.build}" />
+</target>
+
+<target name="prepare">
+<mkdir dir="${dir.logs}" />
+</target>
+
+<target name="phpunit">
+<exec dir="." executable="phpunit.bat" failonerror="true">
+<arg line="--log-junit '${dir.logs}/junit.xml'
+'${dir.tests}'" />
+</exec>
+</target>
+
+<target name="build" depends="clean, prepare, phpunit" />
+</project>

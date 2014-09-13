@@ -1,0 +1,314 @@
+<html>
+<head>
+</head>
+<body>
+<center>
+<div class = "content">
+<table width="100%" bgcolor="#000000" cellspacing="1" cellpadding="0" border="1">
+	<tr>
+		<th colspan="8" style="background-color: #000000; color: #ffffff;font-family: verdana; font-size: 14pt;"><font color="#FFFFFF">Class Schedule for Name</font></th>
+	</tr>
+	<tr style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 10pt;"  bgcolor="#c0c0c0">
+		<th>&nbsp;</th>
+		<th>Sunday</th>
+		<th>Monday</th>
+		<th>Tuesday</th>
+		<th>Wednesday</th>
+		<th>Thursday</th>
+		<th>Friday</th>
+		<th>Saturday</th>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>7:00am</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>7:30am</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>8:00am</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>8:30am</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>9:00am</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>9:30am</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>10:00am</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>10:30am</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>11:00am</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>11:30am</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>12:00pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC441</b><br>Yaser</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC441</b><br>Yaser</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC441</b><br>Yaser</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>12:30pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>1:00pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC441</b><br> Tutorial</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC441</b><br> Tutorial</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC441</b><br> Tutorial</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>1:30pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>2:00pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>2:30pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>3:00pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC471</b><br>Majid</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC471</b><br>Majid</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC471</b><br>Majid</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>3:30pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>4:00pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC471</b><br> Tutorial</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC471</b><br> Tutorial</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%" rowspan="2" style="background-color: #7d98b3; font-family: verdana; font-size: 8pt; text-align: center;"><b>CPSC471</b><br> Tutorial</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>4:30pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>5:00pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>5:30pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>6:00pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>6:30pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>7:00pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>7:30pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>8:00pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>8:30pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>9:00pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#ffffff">
+		<td align="right" width="2%" style="background-color: #c0c0c0; color: #000000;font-family: verdana; font-size: 8pt;"><b>9:30pm</b></td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+		<td width="14%">&nbsp;</td>
+	</tr>
+</table>
+
+</div>
+</center>
+</body>
+</html>

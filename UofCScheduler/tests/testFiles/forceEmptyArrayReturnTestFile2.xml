@@ -1,0 +1,19 @@
+<Settings>
+	<Events>
+ 		<sevent>
+			<event_ID>YOGA1</event_ID>
+            <startTime>11:00</startTime>
+            <endTime>11:50</endTime>
+			<daysOfWeek>MWF</daysOfWeek>
+		</sevent>
+  		<eevent>
+			<event_ID>YOGA2</event_ID>
+            <startTime>11:00</startTime>
+            <endTime>11:50</endTime>
+            <daysOfWeek>T</daysOfWeek>
+ 		</eevent>
+	</Events>
+	<NumOfCourse>
+		
+	</NumOfCourse>
+</Settings>

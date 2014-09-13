@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+	<Events>
+ 		<event>
+			<event_ID>YOGA1</event_ID>
+            <startTime>11:00</startTime>
+            <endTime>11:50</endTime>
+			<daysOfWeek>MWF</daysOfWeek>
+		</event>
+  		<event>
+			<event_ID>YOGA2</event_ID>
+            <startTime>11:00</startTime>
+            <endTime>11:50</endTime>
+            <daysOfWeek>T</daysOfWeek>
+ 		</event>
+	</Events>
+	<NumOfCourse>
+		<min>2</min>
+		<max>4</max>
+	</NumOfCourse>
+</Settings>
