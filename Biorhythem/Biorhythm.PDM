@@ -1,0 +1,209 @@
+[Root]
+Most Recent Package=VBVM
+Most Recent Deploy=Folder Deployment 1
+
+
+[Package|Biorhythm|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\My Setups\Bio
+
+[Package|Biorhythm|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Biorhythm|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Biorhythm|Files Found]
+
+[Package|Biorhythm|Files Released]
+
+[Package|Biorhythm|Missing Dependency Information]
+C:\WINDOWS\system32\iashlpr.dll=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|Biorhythm|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Biorhythm|Files Added]
+D:\Visual Studio Projects\Work on\Biorhythem\Help.htm=
+
+[Package|Biorhythm|Files Removed]
+c:\windows\system32\iashlpr.dll=
+c:\program files\common files\system\ado\msado20.tlb=
+c:\windows\system32\msstdfmt.dll=
+c:\windows\system32\msvcrt.dll=
+c:\windows\system32\scrrun.dll=
+
+[Package|Biorhythm|Files In Project]
+D:\Visual Studio Projects\Work on\Biorhythem\Biorhythm.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=No
+C:\WINDOWS\system32\msvcrt.dll=No
+C:\WINDOWS\system32\MSSTDFMT.DLL=No
+C:\Program Files\Common Files\System\ado\msado20.tlb=No
+C:\WINDOWS\system32\iashlpr.dll=No
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Visual Studio Projects\Work on\Biorhythem\Help.htm=Yes
+
+[Package|Biorhythm|Configure Registry Files]
+Applicable=No
+
+[Package|Biorhythm|Configure Remote Servers]
+Applicable=No
+
+[Package|Biorhythm|Install Locations]
+D:\Visual Studio Projects\Work on\Biorhythem\Biorhythm.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Visual Studio Projects\Work on\Biorhythem\Help.htm=$(AppPath)
+
+[Package|Biorhythm|Configure Shared Files]
+Applicable=Yes
+D:\Visual Studio Projects\Work on\Biorhythem\Biorhythm.exe=No
+D:\Visual Studio Projects\Work on\Biorhythem\Help.htm=No
+
+[Package|Biorhythm|Distribution]
+Type=single
+Size=
+Title=Biorhythm
+
+[Package|Biorhythm|IconGroups]
+Group0=Biorhythm
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Biorhythm|Biorhythm]
+Icon1=Biorhythm.exe
+Title1=Biorhythm
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=Biorhythm.exe
+Title2=Help
+StartIn2=$(AppPath)
+Key2=Icon3
+
+[Package|Biorhythm|Package]
+PackageFolder=D:\My Setups\Bio
+ProjectFolder=D:\Visual Studio Projects\Work on\Biorhythem
+ServerSideCab=
+File1=D:\My Setups\Bio\setup.exe
+File2=D:\My Setups\Bio\Setup.Lst
+File3=D:\My Setups\Bio\Biorhythm.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|VBVM|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\My Setups\vbvm
+
+[Package|VBVM|Configure DAO ISAMs]
+Applicable=No
+
+[Package|VBVM|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|VBVM|Files Found]
+
+[Package|VBVM|Files Released]
+
+[Package|VBVM|Missing Dependency Information]
+C:\WINDOWS\system32\iashlpr.dll=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|VBVM|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|VBVM|Files Added]
+
+[Package|VBVM|Files Removed]
+d:\visual studio projects\work on\biorhythem\biorhythm.exe=
+c:\windows\system32\iashlpr.dll=
+c:\program files\common files\system\ado\msado20.tlb=
+c:\windows\system32\msstdfmt.dll=
+c:\windows\system32\msvcrt.dll=
+c:\windows\system32\scrrun.dll=
+
+[Package|VBVM|Files In Project]
+D:\Visual Studio Projects\Work on\Biorhythem\Biorhythm.exe=No
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=No
+C:\WINDOWS\system32\msvcrt.dll=No
+C:\WINDOWS\system32\MSSTDFMT.DLL=No
+C:\Program Files\Common Files\System\ado\msado20.tlb=No
+C:\WINDOWS\system32\iashlpr.dll=No
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|VBVM|Configure Registry Files]
+Applicable=No
+
+[Package|VBVM|Configure Remote Servers]
+Applicable=No
+
+[Package|VBVM|Install Locations]
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\iashlpr.dll=$(WinSysPath)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|VBVM|Configure Shared Files]
+Applicable=No
+
+[Package|VBVM|Distribution]
+Type=single
+Size=
+Title=VBVM
+
+[Package|VBVM|Package]
+PackageFolder=D:\My Setups\vbvm
+ProjectFolder=D:\Visual Studio Projects\Work on\Biorhythem
+ServerSideCab=
+File1=D:\My Setups\vbvm\setup.exe
+File2=D:\My Setups\vbvm\Setup.Lst
+File3=D:\My Setups\vbvm\Biorhythm.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Deploy|Folder Deployment 1|Root]
+Package=Biorhythm
+Handler=PDWizard.FolderDplySubWiz
+Folder=d:\My Setups\new

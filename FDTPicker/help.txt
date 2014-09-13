@@ -1,0 +1,30 @@
+﻿FDTPicker Control User Manual
+
+Note : For compatibility issues , all Miladi Dates are in "mm/dd/yyyy" standard format as string (CString class) and all Shamsi Dates are in "yyyy/mm/dd" format as string , you can format the return values to your own format .
+
+FDTPicker Properties :
+
+Name or ID : Returns the name used in code to identify an object.
+Set(Get)FormBackColor : Calender (Month view) Form back color.
+Set(Get)YearRange : Range of Years in which FDTPicker will accept , not recommended more than 20 years 
+	        for example , year range 10 will allow years from 10 years ago to 10 years after current year.
+Set(Get)CalFontBold : A boolean value to determine whether the Calender form Font should be Bold or not.
+Set(Get)ShowFarsiMonth : A boolean value to determine whether to show Farsi Month Names in the Month Combo box.
+GetMiladiDate : A read-only property (you can access it in run-time) that returns Miladi Date (Format is "month/day/year" as string)
+ 	        corresponding current chosen Shamsi Date.You can simply convert string to CTime format.
+GetcurMDYear : A read-only property that returns Year of the current Miladi Date as short integer.
+GetcurMDMonth : A read-only property that returns Month of the current Miladi Date as short integer.
+GetcurMDDay : A read-only property that returns Day of the current Miladi Date as short integer.
+
+Other properties including Name property act identical to Standard windows control properties.
+
+Methods :
+
+About: Show a dialog box , About me 
+FMonthDayName: converts a number to the corresponding alphabetic Day name in month : e.g. 25 to Bisto panj in persian (entry range from 1 to 31)
+FMonthName: converts a number to the corresponding alphabetic Month name : e.g. 11 to Bahman in persian (entry range from 1 to 11)
+FWeekDayName: converts a number to the corresponding alphabetic Week day name : e.g. 7 to Jome in persian (entry range from 1 to 7)
+Mi2Sh: gets a Date in MD Date format (standard is : "month/day/year" as string for compatibility) and converts it to the corresponding Shamsi Date (format 	"year/month/day" the standars Shamsi Date Format).
+Sh2Mi: gets Shamsi Date (format : "year/month/day" as string) and converts it to the corresponding Miladi Date (Format: "month/day/year" as string).
+
+Other Mothods and Events are identical to standard Windows control Methods.
